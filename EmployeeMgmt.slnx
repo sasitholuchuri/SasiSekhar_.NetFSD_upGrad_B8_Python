@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/Solution Items/">
-    <File Path="global.json" />
-  </Folder>
-  <Project Path="EmployeeCRM.API/EmployeeCRM.API.csproj" Id="1a4576e4-45ee-4cd0-835e-5fb16975c6b6" />
-  <Project Path="EmployeeCRM.MVC/EmployeeCRM.MVC.csproj" />
-  <Project Path="EmployeeCRM.Tests/EmployeeCRM.Tests.csproj" Id="9bf3ca1a-5b91-46b6-875e-d893b1998817" />
-</Solution>
